@@ -14,9 +14,7 @@ Este es el código que armé para mi **parcial de Estructura de Datos**. El prog
 ## **Cómo hacerlo funcionar**
 Para ver el programa funcionando solo hay que hacer lo siguiente:
 
-1. Abrir la **carpeta del proyecto** en **VS Code**.git add .
-$env:GIT_AUTHOR_DATE="2026-05-07T22:48:00-05:00"
-$env:GIT_COMMITTER_DATE="2026-05-07T22:48:00-05:00"
+1. Abrir la **carpeta del proyecto** en **VS Code**
 git commit -m "Documentacion final terminada"
 git push origin main --force
 2. Entrar al archivo llamado **MenuPrincipal.java**.
