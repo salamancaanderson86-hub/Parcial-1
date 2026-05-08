@@ -47,4 +47,4 @@ El programa se divide en tres partes que trabajan juntas:
 3. **MenuPrincipal:** Es lo que tú ves en pantalla para interactuar.
 
 ---
-*(Aquí van mis capturas de pantalla del menú funcionando y los datos guardados)*
+
