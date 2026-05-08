@@ -1,0 +1,11 @@
+# Ignorar archivos compilados de Java 
+*.class
+
+# Ignorar la carpeta donde se guardan los ejecutables
+bin/
+
+# Ignorar el archivo de datos del banco (opcional, para que la fila empiece limpia)
+cola_banco.dat
+
+# Ignorar configuraciones de VS Code
+.vscode/
