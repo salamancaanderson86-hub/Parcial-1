@@ -1,4 +1,4 @@
-# **Proyecto para el parcial: Sistema de turnos de un banco**
+# **Primer parcial: Sistema de turnos de un banco**
 
 **Estudiante:** Anderson Arley Salamanca Jarro  
 **Materia:** Estructura de Datos  
@@ -14,7 +14,11 @@ Este es el código que armé para mi **parcial de Estructura de Datos**. El prog
 ## **Cómo hacerlo funcionar**
 Para ver el programa funcionando solo hay que hacer lo siguiente:
 
-1. Abrir la **carpeta del proyecto** en **VS Code**.
+1. Abrir la **carpeta del proyecto** en **VS Code**.git add .
+$env:GIT_AUTHOR_DATE="2026-05-07T22:48:00-05:00"
+$env:GIT_COMMITTER_DATE="2026-05-07T22:48:00-05:00"
+git commit -m "Documentacion final terminada"
+git push origin main --force
 2. Entrar al archivo llamado **MenuPrincipal.java**.
 3. Darle al **botón de Play** que sale arriba a la derecha.
 
